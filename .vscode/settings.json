@@ -1,0 +1,18 @@
+{
+  "xml.downloadExternalResources.enabled": true,
+  "cSpell.words": [
+    "FIRSTNAME",
+    "Homeworld",
+    "Ilythiir",
+    "LASTNAME",
+    "Seraphina",
+    "Snuggler",
+    "Warforged",
+    "WORDONTHESTREET"
+  ],
+  "xml.format.maxLineWidth": 0,
+  "xml.format.joinContentLines": true,
+  "[xml]": {
+    "editor.wordWrap": "on"
+  }
+}

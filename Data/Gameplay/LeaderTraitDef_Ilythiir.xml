@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<UnitTraitList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../Schema/UnitTraitDefs.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- LeaderTraitDefs.xml -->
+
+  <UnitTrait>
+    <InternalName>CitizenTrait_ConsumedIlythiir</InternalName>
+    <DisplayName>CitizenTrait_ConsumedIlythiir_Name</DisplayName>
+    <Description>CitizenTrait_ConsumedIlythiir_Dec</Description>
+    <Icon>Trait_Consumed.png</Icon>
+    <ForPlanetaryCitizen>true</ForPlanetaryCitizen>
+    <Stats>
+      <EffectType>Resolve</EffectType>
+      <Scope>Local</Scope>
+      <Target>
+        <TargetType>Unit</TargetType>
+      </Target>
+      <BonusType>Flat</BonusType>
+      <Value>-1</Value>
+    </Stats>
+    <Stats>
+      <EffectType>Diligence</EffectType>
+      <Scope>Local</Scope>
+      <Target>
+        <TargetType>Unit</TargetType>
+      </Target>
+      <BonusType>Flat</BonusType>
+      <Value>2</Value>
+    </Stats>
+    <Stats>
+      <EffectType>Intelligence</EffectType>
+      <Scope>Local</Scope>
+      <Target>
+        <TargetType>Unit</TargetType>
+      </Target>
+      <BonusType>Flat</BonusType>
+      <Value>3</Value>
+    </Stats>
+    <Stats>
+      <EffectType>Social</EffectType>
+      <Scope>Local</Scope>
+      <Target>
+        <TargetType>Unit</TargetType>
+      </Target>
+      <BonusType>Flat</BonusType>
+      <Value>1</Value>
+    </Stats>
+  </UnitTrait>
+</UnitTraitList>

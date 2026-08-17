@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+    <!-- UnitRaceText.xml -->
+    <StringTable>
+        <Label>Race_Ilythiir_Name</Label>
+        <String>Ilythiir</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Ilythiir_Dec</Label>
+        <String>The Ilythiir are an amphibious, highly intelligent humanoid species distinguished by light-blue scaled skin, majestic sweeping horns, and delicate finned ears reminiscent of their deep-ocean origins. Possessing a graceful, enduring physiology, they effortlessly bridge the gap between abyssal aquatic depths and terrestrial living.</String>
+    </StringTable>
+</StringTableList>

@@ -1,0 +1,12 @@
+<StringTableList
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+    <StringTable>
+        <Label>CitizenTrait_ConsumedIlythiir_Name</Label>
+        <String>[ICON=Trait_Consumed_Icon] Hatched from a Ilythiir</String>
+    </StringTable>
+    <StringTable>
+        <Label>CitizenTrait_ConsumedIlythiir_Dec</Label>
+        <String>Hatched from a Ilythiir.</String>
+    </StringTable>
+</StringTableList>

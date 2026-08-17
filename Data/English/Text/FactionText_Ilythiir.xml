@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- FactionText.xml -->
+  <StringTable>
+    <Label>FACTION_ILYTHIIR_Name</Label>
+    <String>The Ilythiir ConcordX</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ILYTHIIR_ShortName</Label>
+    <String>IlythiirX</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ILYTHIIR_LeaderName</Label>
+    <String>Thalassa Al'thiir</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ILYTHIIR_Dec</Label>
+    <String>Having emerged from the abyssal depths millennia ago, the Ilythiir now seamlessly inhabit seashores, shallow waters, and land. Highly intelligent and diplomatically refined, their serene disposition conceals the unstoppable force of the tide when provoked.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ILYTHIIR_LeaderDec</Label>
+    <String>High Archon of the Ilythiir, guided by centuries of deep-ocean wisdom and dedicated to spreading cosmic harmony and enlightenment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ILYTHIIR_Callsign</Label>
+    <String>I.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ILYTHIIR_StartupTitle</Label>
+    <String>Tides of Wisdom</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ILYTHIIR_StartupDescription</Label>
+    <String>The Ilythiir (Abyssal) Concord traces its roots to an ancient ocean heritage, having gracefully transitioned from tranquil abyssal realm waters to the shores and ultimately into the stars. Renowned for their formidable intellect and refined diplomatic finesse, the Ilythiir navigate galaxy-wide affairs with calculated patience, seeking harmony, trade, and intellectual advancement above all. In time, they learned to nurture colossal trees, whose towering crowns sheltered their growing settlements and whose ancient roots became living repositories of knowledge. Though pacifist by nature, their serene disposition conceals the relentless persistence of the tide, ensuring that any threat to their species, land or sovereign waters is met with swift, overwhelming precision. Under the guidance of their distinguished council of advisors, the Concord stands as a beacon of wisdom, intent on bringing order and enlightenment to the cosmic expanse.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ILYTHIIR_StartupTraitsDescription</Label>
+    <String>The Ilythiir excel as brilliant researchers and influential diplomats, possessing an innate connection to nature and a thirst for intellectual mastery. However, their contemplative culture leaves them vulnerable to early military threats, while their disdain for environmental pollution and higher societal expectations might present some governance challenges.</String>
+  </StringTable>
+</StringTableList>
