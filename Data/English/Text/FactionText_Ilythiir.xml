@@ -6,11 +6,11 @@
   <!-- FactionText.xml -->
   <StringTable>
     <Label>FACTION_ILYTHIIR_Name</Label>
-    <String>The Ilythiir ConcordX</String>
+    <String>The Ilythiir Concord</String>
   </StringTable>
   <StringTable>
     <Label>FACTION_ILYTHIIR_ShortName</Label>
-    <String>IlythiirX</String>
+    <String>Ilythiir</String>
   </StringTable>
   <StringTable>
     <Label>FACTION_ILYTHIIR_LeaderName</Label>
