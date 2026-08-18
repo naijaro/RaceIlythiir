@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<PlanetList
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../Schema/PlanetDefs.xsd">
+
+  <!-- Homeworlds -->
+
+  <Planet>
+    <InternalName>Planet_Thiir</InternalName>
+    <DisplayName>Planet_Thiir_Name</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>32</PlanetClass>
+    <PlanetTrait>AquaticWorld</PlanetTrait>
+    <PlanetClassDistribution>
+      <Minerals>4</Minerals>
+      <Technology>3</Technology>
+      <Wealth>4</Wealth>
+      <Fertility>20</Fertility>
+      <PlanetInfluence>10</PlanetInfluence>
+    </PlanetClassDistribution>
+  </Planet>
+
+  <Planet>
+    <InternalName>Planet_Thiir_Vash</InternalName>
+    <DisplayName>Planet_Thiir_Vash_Name</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>4</PlanetClass>
+    <PlanetTrait>AquaticWorld</PlanetTrait>
+    <PlanetClassDistribution>
+      <Minerals>0</Minerals>
+      <Technology>3</Technology>
+      <Wealth>2</Wealth>
+      <Fertility>8</Fertility>
+      <PlanetInfluence>1</PlanetInfluence>
+    </PlanetClassDistribution>
+  </Planet>
+
+  <Planet>
+    <InternalName>Planet_Thiir_Sora</InternalName>
+    <DisplayName>Planet_Thiir_Sora_Name</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>5</PlanetClass>
+    <PlanetTrait>TerrestrialWorld</PlanetTrait>
+    <PlanetClassDistribution>
+      <Minerals>2</Minerals>
+      <Technology>1</Technology>
+      <Wealth>1</Wealth>
+      <Fertility>12</Fertility>
+      <PlanetInfluence>1</PlanetInfluence>
+    </PlanetClassDistribution>
+  </Planet>
+
+  <Planet>
+    <InternalName>Planet_Thaar_Kryos</InternalName>
+    <DisplayName>Planet_Thaar_Kryos_Name</DisplayName>
+    <PlanetType>DeadWithoutGigamass</PlanetType>
+    <PlanetClass>0</PlanetClass>
+    <PlanetTrait>FrozenWorld</PlanetTrait>
+    <PlanetClassDistribution>
+      <Minerals>0</Minerals>
+      <Technology>2</Technology>
+      <Wealth>0</Wealth>
+      <Fertility>0</Fertility>
+      <PlanetInfluence>0</PlanetInfluence>
+    </PlanetClassDistribution>
+  </Planet>
+
+  <Planet>
+    <InternalName>Planet_Thiir_Khar</InternalName>
+    <DisplayName>Planet_Thiir_Khar_Name</DisplayName>
+    <PlanetType>Dead</PlanetType>
+    <PlanetClass>0</PlanetClass>
+    <PlanetTrait>BarrenWorld</PlanetTrait>
+    <PlanetClassDistribution>
+      <Minerals>2</Minerals>
+      <Technology>0</Technology>
+      <Wealth>0</Wealth>
+      <Fertility>0</Fertility>
+      <PlanetInfluence>0</PlanetInfluence>
+    </PlanetClassDistribution>
+  </Planet>
+
+</PlanetList>

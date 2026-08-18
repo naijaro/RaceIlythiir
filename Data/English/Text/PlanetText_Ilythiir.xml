@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableList
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Thiir System -->
+  <StringTable>
+    <Label>ThiirStarName</Label>
+    <String>Thiir a'Lia</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Thiir_Name</Label>
+    <String>Thiir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Thaar_Kryos_Name</Label>
+    <String>Thaar'Kryos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Thiir_Vash_Name</Label>
+    <String>Thiir'Vash</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Thiir_Sora_Name</Label>
+    <String>Thiir'Sora</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Thiir_Khar_Name</Label>
+    <String>Thiir'Khar</String>
+  </StringTable>
+</StringTableList>

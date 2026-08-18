@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>ThiirSystem_Name</Label>
+    <String>Thiir System</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThiirSystem_Dec</Label>
+    <String>The home system of the The Ilythiir Concord, containing a class 32 [HS=HS_AquaticWorld]Oceanic[/HS] world and 2 small worlds with good resources.[BR][BR]Not recommended for non-[HS=HS_Aquatic]Aquatic[/HS] races.</String>
+  </StringTable>
+</StringTableList>
