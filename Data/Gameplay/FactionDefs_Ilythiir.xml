@@ -36,7 +36,7 @@
     <LeaderTraits>LeaderTrait_Sovereign</LeaderTraits>
     <LeaderTraits>UnitTrait_Compassion</LeaderTraits>
     <RequiresHomeworld>true</RequiresHomeworld>
-    <HomeStarSystem>AltariaSystem</HomeStarSystem>
+    <HomeStarSystem>ThiirSystem</HomeStarSystem>
     <TechTree>Master_Tree</TechTree>
     <StartingTechs>Tech_Starbases</StartingTechs>
     <Thinktanks>Thinktank_Ecologism</Thinktanks>
