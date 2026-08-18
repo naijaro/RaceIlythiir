@@ -66,7 +66,7 @@
     <Surface2>Default_Surface_31</Surface2>
     <Appearance>Terran_Appearance_R</Appearance>
     <ShipStyleSet>AltarianShipStyleSet</ShipStyleSet>
-    <CommanderShipSet>CommanderShipSet_Altarian</CommanderShipSet>
+    <CommanderShipSet>CommanderShipSet_Resistance</CommanderShipSet>
     <CreditsInit>1700</CreditsInit>
     <WarEnduranceInit>90</WarEnduranceInit>
     <DefaultResistance>0.25</DefaultResistance>
