@@ -1,0 +1,8 @@
+<StringTableList
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>UI_Color_Ilythiir</Label>
+    <String>Ilythiir</String>
+  </StringTable>
+</StringTableList>

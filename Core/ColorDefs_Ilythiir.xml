@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorList
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../Schema/Lib/ColorDefs.xsd">
+  <!-- Created with the Gal Civ 3 UIAssetEditor -->
+  <!-- ColorDefs.xml -->
+
+  <Color>
+    <InternalName>IlythiirRaceBlue</InternalName>
+    <Red>75</Red>
+    <Green>105</Green>
+    <Blue>150</Blue>
+  </Color>
+
+  <Color>
+    <InternalName>IlythiirMapBlue</InternalName>
+    <Red>75</Red>
+    <Green>105</Green>
+    <Blue>150</Blue>
+  </Color>
+
+  <Color>
+    <InternalName>IlythiirUIBlue</InternalName>
+    <Red>75</Red>
+    <Green>105</Green>
+    <Blue>150</Blue>
+  </Color>
+
+  <Color>
+    <InternalName>IlythiirUIDefault</InternalName>
+    <Red>105</Red>
+    <Green>100</Green>
+    <Blue>85</Blue>
+  </Color>
+
+  <Color>
+    <InternalName>IlythiirUIDefaultHot</InternalName>
+    <Red>185</Red>
+    <Green>175</Green>
+    <Blue>145</Blue>
+  </Color>
+
+  <Color>
+    <InternalName>IlythiirUIDefaultHighlight</InternalName>
+    <Red>255</Red>
+    <Green>204</Green>
+    <Blue>0</Blue>
+  </Color>
+
+  <Color>
+    <InternalName>IlythiirFOWUnexplored</InternalName>
+    <Red>255</Red>
+    <Green>15</Green>
+    <Blue>20</Blue>
+    <Alpha>255</Alpha>
+  </Color>
+
+  <Color>
+    <InternalName>IlythiirShipyardGridHot</InternalName>
+    <Red>9</Red>
+    <Green>93</Green>
+    <Blue>143</Blue>
+  </Color>
+
+  <Color>
+    <InternalName>IlythiirShipyardGridMedium</InternalName>
+    <Red>0</Red>
+    <Green>65</Green>
+    <Blue>100</Blue>
+  </Color>
+
+  <Color>
+    <InternalName>IlythiirShipyardGridDark</InternalName>
+    <Red>17</Red>
+    <Green>37</Green>
+    <Blue>56</Blue>
+  </Color>
+
+</ColorList>

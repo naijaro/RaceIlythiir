@@ -1,0 +1,48 @@
+<UIColorList
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../Schema/UIColorDef.xsd">
+
+  <UIColorDef>
+    <InternalName>IlythiirUIColors</InternalName>
+    <DisplayName>UI_Color_Ilythiir</DisplayName>
+    <Color>
+      <OriginalColor>UIDefault</OriginalColor>
+      <OverrideColor>UIDefault</OverrideColor>
+    </Color>
+    <Color>
+      <OriginalColor>UIDefaultHot</OriginalColor>
+      <OverrideColor>UIDefaultHot</OverrideColor>
+    </Color>
+    <Color>
+      <OriginalColor>UIDefaultHighlight</OriginalColor>
+      <OverrideColor>UIDefaultHighlight</OverrideColor>
+    </Color>
+
+    <Color>
+      <OriginalColor>UIDefaultBright</OriginalColor>
+      <OverrideColor>UIDefaultBright</OverrideColor>
+    </Color>
+    <Color>
+      <OriginalColor>UIDefaultButton</OriginalColor>
+      <OverrideColor>UIDefaultButton</OverrideColor>
+    </Color>
+    <Color>
+      <OriginalColor>UIDefaultButtonBright</OriginalColor>
+      <OverrideColor>UIDefaultButtonBright</OverrideColor>
+    </Color>
+
+    <Color>
+      <OriginalColor>ShipyardGridHot</OriginalColor>
+      <OverrideColor>TerranShipyardGridHot</OverrideColor>
+    </Color>
+    <Color>
+      <OriginalColor>ShipyardGridMedium</OriginalColor>
+      <OverrideColor>TerranShipyardGridMedium</OverrideColor>
+    </Color>
+    <Color>
+      <OriginalColor>ShipyardGridDark</OriginalColor>
+      <OverrideColor>TerranShipyardGridDark</OverrideColor>
+    </Color>
+  </UIColorDef>
+
+</UIColorList>

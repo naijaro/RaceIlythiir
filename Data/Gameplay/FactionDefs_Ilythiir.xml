@@ -55,8 +55,8 @@
     <StartupDescription>FACTION_ILYTHIIR_StartupDescription</StartupDescription>
     <StartupTraitsDescription>FACTION_ILYTHIIR_StartupTraitsDescription</StartupTraitsDescription>
     <ConquestMovie>Conquest_Victory.bk2</ConquestMovie>
-    <MapColorDef>IconianMapColors</MapColorDef>
-    <UIColorDef>IconianUIColors</UIColorDef>
+    <MapColorDef>IlythiirMapColors</MapColorDef>
+    <UIColorDef>IlythiirUIColors</UIColorDef>
     <!-- <FactionMoviesFGDef>AltarianMoviesFG</FactionMoviesFGDef>
     <FactionMoviesBGDef>AltarianMoviesBG</FactionMoviesBGDef> -->
     <FactionMusicDef>IconianMusic</FactionMusicDef>
@@ -64,7 +64,7 @@
     <Material2>Ship_Material_03</Material2>
     <Surface1>Default_Surface_30</Surface1>
     <Surface2>Default_Surface_31</Surface2>
-    <Appearance>Altarian_Appearance</Appearance>
+    <Appearance>Terran_Appearance_R</Appearance>
     <ShipStyleSet>AltarianShipStyleSet</ShipStyleSet>
     <CommanderShipSet>CommanderShipSet_Altarian</CommanderShipSet>
     <CreditsInit>1700</CreditsInit>

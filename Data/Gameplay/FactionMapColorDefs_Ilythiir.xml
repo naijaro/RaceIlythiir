@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MapColorList
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../Schema/FactionMapColorDefs.xsd">
+
+  <MapColorDef>
+    <InternalName>IlythiirMapColors</InternalName>
+    <DisplayName>UI_Color_Terran</DisplayName>
+    <FactionColor>IlythiirUIBlue</FactionColor>
+    <GridColor>IlythiirUIDefault</GridColor>
+    <InfluenceColor>IlythiirMapBlue</InfluenceColor>
+    <InfluenceLine>
+      <MinAlpha>200</MinAlpha>
+      <MaxAlpha>200</MaxAlpha>
+    </InfluenceLine>
+    <InfluenceBlur>
+      <MinAlpha>0</MinAlpha>
+      <MaxAlpha>80</MaxAlpha>
+    </InfluenceBlur>
+    <ResourcePathLineColor>IlythiirUIBlue</ResourcePathLineColor>
+    <TradePathLineColor>IlythiirMapBlue</TradePathLineColor>
+    <ShipyardPathLineColor>UIDefaultHot</ShipyardPathLineColor>
+    <ShipyardSponsorPathLineColor>UIDefaultHighlight</ShipyardSponsorPathLineColor>
+    <AsteroidBasePathLineColor>IlythiirUIBlue</AsteroidBasePathLineColor>
+    <StrategicIconColor>IlythiirUIBlue</StrategicIconColor>
+    <RallyPointColor>IlythiirUIBlue</RallyPointColor>
+    <CampaignWaypointColor>IlythiirUIBlue</CampaignWaypointColor>
+    <InfluenceFillAlpha>0.15</InfluenceFillAlpha>
+  </MapColorDef>
+
+</MapColorList>
